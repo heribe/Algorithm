@@ -9,6 +9,7 @@ import java.util.*;
 
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-
+        int c;
+        int b;
     }
 }
